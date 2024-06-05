@@ -1,20 +1,27 @@
-{
-	"info":{
-
+[
+	{
+		"name":"one_card",
+		"diractory":"one_card/",
+		"json":"one_card/one_card.json"
 	},
-	"spreads":[
-		{
-			"name":"",
-			"uri":"",
-			"file":"",
-			"description":""
+	{
+		"name":"three_card",
+		"diractory":"three_card/",
+		"json":"three_card/three_card.json"
 		},
-		{
-			"name":"",
-			"uri":"",
-			"file":"",
-			"description":""
-	
-		}
-	]
-}
+	{
+		"name":"five_card",
+		"diractory":"five_card/",
+		"json":"five_card/five_card.json"
+	},
+	{
+		"name":"magic_seven",
+		"diractory":"magic_seven/",
+		"json":"magic_seven/magic_seven.json"
+	},
+	{
+		"name":"celtic_cross",
+		"diractory":"celtic_cross/",
+		"json":"celtic_cross/celtic_cross.json"
+	}
+]

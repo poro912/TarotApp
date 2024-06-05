@@ -49,7 +49,11 @@
       "name":"Universal Waite",
       "url":"Universal Waite.zip"
     }
-  ]
-    
-  
+  ],
+  "directory":{
+	"back":"back/",
+	"deck":"deck/",
+	"spread":"spread/",
+	"store":"store/"
+  }
 }

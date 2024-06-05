@@ -1,0 +1,73 @@
+{
+	"info": {
+		"name": "",
+		"img": "",
+		"file": "",
+		"description": ""
+	},
+	"spread":[
+		{
+			"x":100,
+			"y":50,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"과거"
+		},
+		{
+			"x":150,
+			"y":200,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"현재"
+		},
+		{
+			"x":50,
+			"y":200,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"미래"
+		},
+		{
+			"x":100,
+			"y":250,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"조언"
+		},
+		{
+			"x":50,
+			"y":150,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"주변 영향력"
+		},
+		{
+			"x":150,
+			"y":150,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"방해물"
+		},
+		{
+			"x":100,
+			"y":100,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"결과"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"info": {
+		"name": "One Card",
+		"img": "one_card.png",
+		"file": "",
+		"description": "복합적 스프레드"
+	},
+	"spread":[
+		{
+			"x":50,
+			"y":50,
+			"width":0,
+			"height":0,
+			"angle":0,
+			"negative":false,
+			"description":"질문에 대한 답변"
+		}
+	]
+}

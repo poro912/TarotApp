@@ -9,6 +9,7 @@
 	],
 	"cards": [
 		{
+			"uri":"major/0.jpg",
 			"category": "major",
 			"number": "0",
 			"name": "The Fool",
@@ -40,6 +41,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/1.jpg",
 			"category": "major",
 			"number": "1",
 			"name": "The Magician",
@@ -76,6 +78,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/2.jpg",
 			"category": "major",
 			"number": "2",
 			"name": "The High Priestess",
@@ -117,6 +120,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/3.jpg",
 			"category": "major",
 			"number": "3",
 			"name": "The Empress",
@@ -159,6 +163,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/4.jpg",
 			"category": "major",
 			"number": "4",
 			"name": "The Emperor",
@@ -195,6 +200,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/5.jpg",
 			"category": "major",
 			"number": "5",
 			"name": "The Hierophant",
@@ -233,6 +239,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/6.jpg",
 			"category": "major",
 			"number": "6",
 			"name": "The Lovers",
@@ -271,6 +278,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/7.jpg",
 			"category": "major",
 			"number": "7",
 			"name": "The Chariot",
@@ -312,6 +320,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/8.jpg",
 			"category": "major",
 			"number": "8",
 			"name": "Strength",
@@ -350,6 +359,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/9.jpg",
 			"category": "major",
 			"number": "9",
 			"name": "The Hermit",
@@ -388,6 +398,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/10.jpg",
 			"category": "major",
 			"number": "10",
 			"name": "Wheel of Fortune",
@@ -429,6 +440,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/11.jpg",
 			"category": "major",
 			"number": "11",
 			"name": "Justice",
@@ -468,6 +480,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/12.jpg",
 			"category": "major",
 			"number": "12",
 			"name": "The Hanged Man",
@@ -503,6 +516,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/13.jpg",
 			"category": "major",
 			"number": "13",
 			"name": "Death",
@@ -541,6 +555,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/14.jpg",
 			"category": "major",
 			"number": "14",
 			"name": "Temperance",
@@ -576,6 +591,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/15.jpg",
 			"category": "major",
 			"number": "15",
 			"name": "The Devil",
@@ -613,6 +629,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/16.jpg",
 			"category": "major",
 			"number": "16",
 			"name": "The Tower",
@@ -646,7 +663,7 @@
 				"궁지",
 				"애정의 위기",
 				"이별의 예감",
-				"위기 속의 희망" // 안됨
+				"위기 속의 희망"
 			],
 			"2": [],
   			"1": ["좋지 않은 변화", "갑작스런 이별", "갑작스런 변화", "격변", "계획의 붕괴"],
@@ -656,6 +673,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/17.jpg",
 			"category": "major",
 			"number": "17",
 			"name": "The Star",
@@ -693,6 +711,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/18.jpg",
 			"category": "major",
 			"number": "18",
 			"name": "The Moon",
@@ -732,6 +751,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/19.jpg",
 			"category": "major",
 			"number": "19",
 			"name": "The Sun",
@@ -772,6 +792,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/20.jpg",
 			"category": "major",
 			"number": "20",
 			"name": "Judgement",
@@ -815,6 +836,7 @@
 			"degree": 0
 		},
 		{
+			"uri":"major/21.jpg",
 			"category": "major",
 			"number": "21",
 			"name": "The World",
@@ -850,18 +872,5 @@
 			"-2": ["좌절", "사랑의 좌절", "슬럼프에 빠지다", "변화를 저항하고 홀로 지내다", "실망"],
 			"degree": 0
 		}
-	],
-	"temp": {
-		"category": "major/wand/cup/sword/pentacle",
-		"name": "",
-		"number": 0,
-		"forward": [],
-		"reverse": [],
-		"2": [],
-		"1": [],
-		"0": [],
-		"-1": [],
-		"-2": [],
-		"degree": 0
-	}
+	]
 }

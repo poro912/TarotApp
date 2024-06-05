@@ -1,0 +1,164 @@
+[
+	{
+		"id": 1,
+		"name": "포켓 라이더 웨이트 타로카드",
+		"price": "25000",
+		"image": "taroCard1.png"
+	},
+	{
+		"id": 2,
+		"name": "시크릿 타로카드",
+		"price": "28000",
+		"image": "taroCard2.png"
+	},
+	{
+		"id": 3,
+		"name": "모건그리어 타로카드",
+		"price": "27000",
+		"image": "taroCard3.png"
+	},
+	{
+		"id": 4,
+		"name": "골든 보티첼리 타로카드",
+		"price": "36000",
+		"image": "taroCard4.png"
+	},
+	{
+		"id": 5,
+		"name": "다크 엔젤 타로카드",
+		"price": "28000",
+		"image": "taroCard5.png"
+	},
+	{
+		"id": 6,
+		"name": "요소젠 타로카드 영문북셋",
+		"price": "40000",
+		"image": "taroCard6.png"
+	},
+	{
+		"id": 7,
+		"name": "스미스웨이트 100주년 타로카드",
+		"price": "29000",
+		"image": "taroCard7.png"
+	},
+	{
+		"id": 8,
+		"name": "라이더웨이트 타로카드",
+		"price": "27000",
+		"image": "taroCard8.png"
+	},
+	{
+		"id": 9,
+		"name": "러시안 집시 카드",
+		"price": "20000",
+		"image": "taroCard9.png"
+	},
+	{
+		"id": 10,
+		"name": "쉐도우스케이프스 타로카드",
+		"price": "35000",
+		"image": "taroCard10.png"
+	},
+	{
+		"id": 11,
+		"name": "하모니어스 타로카드",
+		"price": "28000",
+		"image": "taroCard11.png"
+	},
+	{
+		"id": 12,
+		"name": "레노먼드 오라클카드",
+		"price": "17000",
+		"image": "taroCard12.png"
+	},
+	{
+		"id": 13,
+		"name": "프리즈마 비젼 타로카드 6th 에디션",
+		"price": "65000",
+		"image": "taroCard13.png"
+	},
+	{
+		"id": 14,
+		"name": "카사노바 타로카드",
+		"price": "31000",
+		"image": "taroCard14.png"
+	},
+	{
+		"id": 15,
+		"name": "일루미나티 타로카드",
+		"price": "28000",
+		"image": "taroCard15.png"
+	},
+	{
+		"id": 16,
+		"name": "이씨리얼 비젼 타로카드",
+		"price": "30000",
+		"image": "taroCard16.png"
+	},
+	{
+		"id": 17,
+		"name": "아르누보 타로카드",
+		"price": "28000",
+		"image": "taroCard17.png"
+	},
+	{
+		"id": 18,
+		"name": "문올로지 오라클카드",
+		"price": "30000",
+		"image": "taroCard18.png"
+	},
+	{
+		"id": 19,
+		"name": "무하 타로카드",
+		"price": "37000",
+		"image": "taroCard19.png"
+	},
+	{
+		"id": 20,
+		"name": "폴리나 타로카드",
+		"price": "27000",
+		"image": "taroCard20.png"
+	},
+	{
+		"id": 21,
+		"name": "엔젤 앤서 오라클카드",
+		"price": "30000",
+		"image": "taroCard21.png"
+	},
+	{
+		"id": 22,
+		"name": "문올로지 오라클카드",
+		"price": "30000",
+		"image": "taroCard22.png"
+	},
+	{
+		"id": 23,
+		"name": "드리밍 웨이 레노먼드",
+		"price": "25000",
+		"image": "taroCard23.png"
+	},
+	{
+		"id": 24,
+		"name": "메디벌 캣 타로카드",
+		"price": "27000",
+		"image": "taroCard24.png"
+	},
+	{
+		"id": 25,
+		"name": "피네스트라 타로카드",
+		"price": "27000",
+		"image": "taroCard25.png"
+	},
+	{
+		"id": 26,
+		"name": "아르카눔 타로카드",
+		"price": "37000",
+		"image": "taroCard26.png"
+	},
+	{
+		"id": 27,
+		"name": "인어 타로카드",
+		"price": "28000",
+		"image": "taroCard27.png"
+	}
+]
